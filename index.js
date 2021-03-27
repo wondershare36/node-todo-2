@@ -45,7 +45,7 @@ function updateTitle(list, index) {
     name: 'title',
     message: "新的标题",
     default: list[index].title
-  }).then((answers) => {
+  }).then((answer) => {
     list[index].title = answer.title
     db.write(list)
   });

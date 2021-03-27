@@ -1,6 +1,10 @@
 ## 实战：用node写一个基于控制台的todo工具
 
-	### 需求
+[Github仓库链接](https://github.com/wusili/node-todo-2)
+
+[Gitee仓库链接](https://gitee.com/wu-sili/node-todo-2)
+
+### 需求
 
 #### 功能
 
