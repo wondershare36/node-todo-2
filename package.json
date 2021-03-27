@@ -1,5 +1,11 @@
 {
-  "name": "nodejs全解",
+  "name": "node-todo-wusili",
+  "bin": {
+    "t":"cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",

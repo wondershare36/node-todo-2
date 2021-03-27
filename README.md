@@ -5,7 +5,6 @@
 [Gitee仓库链接](https://gitee.com/wu-sili/node-todo-2)
 
 ### 需求
-
 #### 功能
 
 1. 可以列出所有的todo
@@ -15,10 +14,11 @@
 5. 可以标记todo为已完成、未完成
 
 #### 命令
-
+```sh
+yarn global add node-todo-wusili
 t add 任务名
-
 t clear
+```
 
 #### 效果
 
